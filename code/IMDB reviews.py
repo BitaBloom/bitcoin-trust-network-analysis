@@ -14,7 +14,7 @@ import os
 # In[2]:
 
 
-dataset = pd.read_csv("IMDB Dataset.csv")
+dataset = pd.read_csv("data/IMDB Dataset.csv")
 
 
 # In[3]:
