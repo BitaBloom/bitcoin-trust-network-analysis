@@ -48,7 +48,7 @@ python code/IMDB_reviews.py
 
 ### 3. Analyze the Bitcoin Network
 - Open `BitcoinAlphafinal.gephi` in Gephi.
-- Follow the steps in the `Report_1.pdf` to perform centrality analysis and graph visualization.
+- Follow the steps in the `Report.pdf` to perform centrality analysis and graph visualization.
 
 ---
 
